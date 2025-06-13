@@ -1,1 +1,1 @@
-This profile is made using flutter .
+This profile card is made using flutter .
